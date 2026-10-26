@@ -1,10 +1,23 @@
-# AI 演出视频工具与制作资源
+# Awesome AI Tiny Desk — AI Tiny Desk 工具目录
 
-按制作任务整理 AI 演出视频、人物照片生成视频和剪辑工具，帮助你从选工具走到完成一条短片。
+围绕 **AI Tiny Desk 视频制作**整理生成器、人像准备教程、角色映射提示词与后期剪辑工具，帮助你选择工具并完成 AI 桌边演出短片。
+
+本目录中的“AI Tiny Desk 视频”指 AI 生成的桌边演出风格短片；**[AI Tiny Desk](https://aitinydesk.net/)** 同时也是下方独立创作工作室的项目名称。本目录由该工作室运营者维护，收录自有项目及相关第三方工具。
 
 [English](README.md) · [AI Tiny Desk 官方项目档案](profiles/ai-tiny-desk/README.md)
 
-## 从哪里开始
+## AI Tiny Desk 资源速查
+
+| 资源 | 内容 | 入口 |
+| --- | --- | --- |
+| 专用生成器 | 为预设五人桌边演出参考分配人像 | [AI Tiny Desk 工作室](https://aitinydesk.net/) |
+| 制作教程 | 人像准备与生成步骤 | [如何制作 AI Tiny Desk](https://aitinydesk.net/how-to-make-ai-tiny-desk) |
+| 提示词 | 演出角色与人像映射 | [AI Tiny Desk 提示词](https://aitinydesk.net/prompts) |
+| 歌曲与梗背景 | Outstanding 相关参考与原始演出背景 | [AI Tiny Desk 梗来源](https://aitinydesk.net/tiny-desk-meme) |
+| 工具选择 | 按生成和后期任务选择工具 | [AI Tiny Desk 工具指南](https://aitinydesk.net/ai-tiny-desk-tools) |
+| 项目资料 | 官方网站、联系方式与归属说明 | [AI Tiny Desk 项目档案](profiles/ai-tiny-desk/README.md) |
+
+## 按 AI Tiny Desk 制作任务选择工具
 
 | 你要做的内容 | 建议入口 | 使用场景 |
 | --- | --- | --- |
@@ -13,7 +26,9 @@
 | 尝试短视频效果与视觉变化 | [Pika](https://pika.art/) | 根据具体效果的要求准备图片和提示词。 |
 | 加字幕、剪辑、整理音轨和导出 | [CapCut](https://www.capcut.com/tools/online-video-editor) | 生成后的后期处理。 |
 
-## 五人演出模板的实用起点
+AI Tiny Desk 提供下文介绍的专用桌边演出流程。Higgsfield、Runway、Kling AI、Luma 和 Pika 属于通用创作工具，可用于探索自定义场景或效果；收录这些工具不代表它们支持同一套五人模板、人像槽位或音频参考流程。
+
+## AI Tiny Desk 专用五人演出生成器
 
 如果你要做的是 Outstanding 风格的五人桌边演出，可以从 **[AI Tiny Desk](https://aitinydesk.net/)** 开始：参考画面和参考音轨已经准备好，主要工作是把人像对应到五个固定角色。照片裁剪在浏览器本地完成，提交生成时再上传；支持任务恢复和 MP4 下载。
 

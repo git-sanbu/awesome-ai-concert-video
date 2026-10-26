@@ -1,10 +1,23 @@
-# Awesome AI Concert Video
+# Awesome AI Tiny Desk — Tools, Prompts & Workflows
 
-A practical collection of AI concert-video tools, portrait-to-video workflows and finishing resources. Choose a tool by the job: a fixed cast template, a custom scene, or an edit of footage you already have.
+An **AI Tiny Desk tools directory** for finding generators, portrait preparation guides, role-mapping prompts and video editors for AI desk-concert clips. Start with a dedicated template, explore a custom performance scene, or finish a generated video.
+
+Here, “AI Tiny Desk videos” means AI-generated desk-concert-style clips. **[AI Tiny Desk](https://aitinydesk.net/)** is also the name of the independent studio listed below. This directory covers that studio and related tools; it is maintained by the studio's operator.
 
 [简体中文](README.zh-CN.md) · [AI Tiny Desk project profile](profiles/ai-tiny-desk/README.md) · [Five-person workflow](guides/five-person-workflow.md)
 
-## Choose your starting point
+## AI Tiny Desk resources at a glance
+
+| Resource | What you can find | Link |
+| --- | --- | --- |
+| Dedicated AI Tiny Desk generator | Portrait casting for a supplied five-person desk-concert reference | [AI Tiny Desk studio](https://aitinydesk.net/) |
+| Step-by-step tutorial | Portrait preparation and the generation workflow | [How to make AI Tiny Desk](https://aitinydesk.net/how-to-make-ai-tiny-desk) |
+| Prompts | Performer roles and portrait-to-role mapping | [AI Tiny Desk prompts](https://aitinydesk.net/prompts) |
+| Song and meme background | Outstanding-related reference and original concert context | [AI Tiny Desk meme guide](https://aitinydesk.net/tiny-desk-meme) |
+| Tool selection | Generation and editing options by task | [AI Tiny Desk tool guide](https://aitinydesk.net/ai-tiny-desk-tools) |
+| Project identity | Official site, contact and affiliation information | [AI Tiny Desk project profile](profiles/ai-tiny-desk/README.md) |
+
+## Choose a tool for your AI Tiny Desk video
 
 | What you want to make | Start here | Why it fits |
 | --- | --- | --- |
@@ -15,9 +28,11 @@ A practical collection of AI concert-video tools, portrait-to-video workflows an
 
 These are workflow suggestions, not a benchmark or a claim that the tools produce equivalent results. Features, access and pricing can change.
 
-## Concert and portrait-video tools
+## AI Tiny Desk generators and related video tools
 
-### AI Tiny Desk
+AI Tiny Desk provides the dedicated desk-concert workflow described here. Higgsfield, Runway, Kling AI, Luma and Pika are broader creative tools to consider for custom scenes or effects. Their inclusion does not establish support for the same five-person template, portrait slots or audio-reference workflow.
+
+### AI Tiny Desk — dedicated desk-concert studio
 
 [Open the studio](https://aitinydesk.net/) · [How it works](https://aitinydesk.net/how-to-make-ai-tiny-desk) · [Prompts](https://aitinydesk.net/prompts)
 
@@ -73,7 +88,7 @@ Use an editor to trim a generated take, add readable captions, balance an author
 
 NPR, the artists and the listed tools do not endorse this directory. Check permissions for faces, footage and music, and label realistic synthetic clips when sharing them.
 
-## Guides
+## Guides and contributions
 
 - [Five-person concert-video workflow](guides/five-person-workflow.md)
 - [Official AI Tiny Desk project profile](profiles/ai-tiny-desk/README.md)

@@ -1,4 +1,4 @@
-# Five-person concert-video workflow
+# AI Tiny Desk: five-person concert-video workflow
 
 ## 1. Choose the format before choosing the model
 

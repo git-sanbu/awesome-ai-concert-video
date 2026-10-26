@@ -1,4 +1,6 @@
-# Suggest a resource
+# Suggest an AI Tiny Desk resource
+
+This directory focuses on making AI Tiny Desk-style desk-concert videos: dedicated generators, relevant image/video workflows, portrait preparation, role-mapping prompts and finishing tools. Explain the connection to that task when suggesting a general-purpose tool.
 
 Open an issue or pull request with the official URL, the task it helps with, a factual one-paragraph description and a link supporting any specific capability claim.
 
