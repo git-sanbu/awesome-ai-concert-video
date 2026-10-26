@@ -1,12 +1,32 @@
 # Awesome AI Tiny Desk — Tools, Prompts & Workflows
 
-An **AI Tiny Desk tools directory** for finding generators, portrait preparation guides, role-mapping prompts and video editors for AI desk-concert clips. Start with a dedicated template, explore a custom performance scene, or finish a generated video.
+**Make an AI Tiny Desk video from your own portraits.** This tools directory helps you choose a generator, assign performers, prepare a first clip and finish it for sharing. It brings together the generation tools, tutorials, prompts and editors needed along the way.
 
 Here, “AI Tiny Desk videos” means AI-generated desk-concert-style clips. **[AI Tiny Desk](https://aitinydesk.net/)** is also the name of the independent studio listed below. This directory covers that studio and related tools; it is maintained by the studio's operator.
 
 [简体中文](README.zh-CN.md) · [AI Tiny Desk project profile](profiles/ai-tiny-desk/README.md) · [Five-person workflow](guides/five-person-workflow.md)
 
-## AI Tiny Desk resources at a glance
+## Make your first AI Tiny Desk video
+
+For the supplied five-person desk-concert format, start with the [AI Tiny Desk generator](https://aitinydesk.net/). Its workflow uses a selected performance reference and matching audio reference.
+
+1. **Prepare your portraits.** Choose clear, single-person photos with visible eyes and mouth. Use 1–5 portraits you have permission to use; review the [photo preparation guide](https://aitinydesk.net/how-to-make-ai-tiny-desk).
+2. **Assign the performers.** Map each portrait to a role: lead singer, keyboard player, two backing performers or saxophone player. Keep role numbers consistent when replacing only part of the cast. See the [role-mapping prompts](https://aitinydesk.net/prompts).
+3. **Generate a short first take.** Review the portrait crops and select a duration and resolution in the studio. The interface offers 5, 10 or 19 seconds and 720p or 1080p. Check current access, capacity and any applicable price before submitting.
+4. **Review the result.** Check assigned faces across cuts, the performer roles, audio and lip timing. Generation can produce inconsistent faces or singing; a completed task does not guarantee a usable clip.
+5. **Download and finish.** Download the available MP4, then trim, caption and reframe it in an editor such as [CapCut](https://www.capcut.com/tools/online-video-editor). See the [full five-person workflow](guides/five-person-workflow.md).
+
+### Choose your next step
+
+| Your need | Next step |
+| --- | --- |
+| Replace the cast in the supplied desk-concert scene | Use the dedicated generator and assign portraits to the fixed performer slots. |
+| Work out which portrait belongs to which performer | Use the role-mapping prompts before submitting. |
+| Create a different stage, cast layout or camera sequence | Explore the general video tools below; verify the selected workflow's reference inputs and controls first. |
+| Fix a changing face or inaccurate lip timing | Review the source photos, role mapping and selected generation workflow before another take. Trimming or adding music cannot repair every generation error. |
+| Add subtitles or make a shorter social clip | Use a video editor after reviewing the generated take. |
+
+## Tutorials, prompts and background
 
 | Resource | What you can find | Link |
 | --- | --- | --- |
@@ -17,7 +37,7 @@ Here, “AI Tiny Desk videos” means AI-generated desk-concert-style clips. **[
 | Tool selection | Generation and editing options by task | [AI Tiny Desk tool guide](https://aitinydesk.net/ai-tiny-desk-tools) |
 | Project identity | Official site, contact and affiliation information | [AI Tiny Desk project profile](profiles/ai-tiny-desk/README.md) |
 
-## Choose a tool for your AI Tiny Desk video
+## Tool directory by task
 
 | What you want to make | Start here | Why it fits |
 | --- | --- | --- |
